@@ -1,4 +1,4 @@
-# Face-Recognition-based-on-Attendace-system-
+# Face-Recognition-based-on-Attendance-system-
 Key Objectives:
 
 To automatically detect and recognize faces using a camera.
